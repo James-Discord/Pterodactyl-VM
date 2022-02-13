@@ -11,3 +11,6 @@ then go to startup section of the server and name it server.py (if u made python
 now start the server and it will install the files for you and run PteroVM
 
 you're done
+
+
+This script is made for educational purposes (obviously lol, not like you're gonna abuse it)
